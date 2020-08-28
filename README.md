@@ -18,5 +18,5 @@ node app crear --help
 Listar archivos
 
 ```
-node app crear --help
+node app listar --help
 ```
